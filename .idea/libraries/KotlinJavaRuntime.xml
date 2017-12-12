@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="KotlinJavaRuntime">
+    <CLASSES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre7.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre8.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guava-gwt-23.5-jre.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jar_files/guava-23.5-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre7-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre8-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/guava-gwt-23.5-jre.jar!/" />
+    </SOURCES>
+  </library>
+</component>
