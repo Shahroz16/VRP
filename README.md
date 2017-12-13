@@ -15,9 +15,17 @@ Here is a sample plot of the starting input locations resulting from search quer
 
 ![alt text](https://i.imgur.com/82QgV4X.jpg)
 
-Here is the output created after the algorithm has been run with 3 vehicles:
+Here is the output created after the algorithm has been run with 3 vehicles and 11 locations:
 ```
 Solution time: 3 seconds
 Shortest route time: 66.2 minutes
 Shortest route: [[0, 9, 11, 1], [0, 6, 10, 2, 5], [0, 7, 4, 8]]
+```
+
+Output after the algorithm has been run with 3 vehicles and 12 locations:
+```
+Solution time: 19 seconds
+Shortest route time: 72.3 minutes
+Shortest route: [[0, 7, 5, 11, 1], [0, 6, 10, 2, 12], [0, 4, 8, 9]]
+
 ```
