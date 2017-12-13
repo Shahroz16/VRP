@@ -33,9 +33,7 @@ fun distance(x: Int, y: Int): Double {
  */
 fun routeLength(route: List<Int>): Double {
     var sum = 0.0
-    for (i in 1 until route.size) {
-        sum += distance(route[i], route[i - 1])
-    }
+    for (i in 1 until route.size) sum += distance(route[i], route[i - 1])
     sum += distance(route[0], route[route.size - 1])
     return sum
 }

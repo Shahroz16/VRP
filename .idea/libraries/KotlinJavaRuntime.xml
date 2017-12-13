@@ -14,7 +14,6 @@
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre7-sources.jar!/" />
       <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jre8-sources.jar!/" />
-      <root url="jar://$USER_HOME$/Downloads/guava-gwt-23.5-jre.jar!/" />
     </SOURCES>
   </library>
 </component>
