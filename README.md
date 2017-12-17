@@ -20,7 +20,7 @@ Here is the output created after the algorithm has been run with 3 vehicles and 
 Solution time: 3 seconds
 Shortest route time: 66.2 minutes
 Shortest route: [[0, 9, 11, 1], [0, 6, 10, 2, 5], [0, 7, 4, 8]]
-Peak memory used before GC - 391 MB
+Peak memory used before GC - 256 MB
 ```
 
 Output after the algorithm has been run with 3 vehicles and 12 locations:
@@ -28,5 +28,5 @@ Output after the algorithm has been run with 3 vehicles and 12 locations:
 Solution time: 19 seconds
 Shortest route time: 72.3 minutes
 Shortest route: [[0, 7, 5, 11, 1], [0, 6, 10, 2, 12], [0, 4, 8, 9]]
-Peak memory used before GC - 887 MB
+Peak memory used before GC - 391 MB
 ```
